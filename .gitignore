@@ -1,0 +1,9 @@
+/__pycache__
+/build
+/dist
+/module_v03
+/module_v04
+*.py 
+*.pyd
+*.spec
+*.json
