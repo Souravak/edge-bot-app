@@ -3,6 +3,7 @@
 /dist
 /module_v03
 /module_v04
+/module_v05
 *.py 
 *.pyd
 *.spec
